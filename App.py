@@ -92,5 +92,3 @@ class Aplication(Funcoes_Player):
 Aplication()
 
 
-
-   
